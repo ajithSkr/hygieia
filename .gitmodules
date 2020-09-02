@@ -1,0 +1,3 @@
+[submodule "hygieia-scm-github-collector"]
+	path = hygieia-scm-github-collector
+	url = https://github.com/Hygieia/hygieia-scm-github-collector.git
